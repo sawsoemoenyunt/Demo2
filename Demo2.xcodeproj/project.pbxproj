@@ -15,6 +15,7 @@
 		52EE56E81CC4A76F0073E2F0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52EE56E61CC4A76F0073E2F0 /* LaunchScreen.storyboard */; };
 		52EE56F31CC4A76F0073E2F0 /* Demo2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52EE56F21CC4A76F0073E2F0 /* Demo2Tests.swift */; };
 		52EE56FE1CC4A76F0073E2F0 /* Demo2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52EE56FD1CC4A76F0073E2F0 /* Demo2UITests.swift */; };
+		52EE570C1CC4A9FE0073E2F0 /* file1test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52EE570B1CC4A9FE0073E2F0 /* file1test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		52EE56F91CC4A76F0073E2F0 /* Demo2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Demo2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		52EE56FD1CC4A76F0073E2F0 /* Demo2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demo2UITests.swift; sourceTree = "<group>"; };
 		52EE56FF1CC4A76F0073E2F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		52EE570B1CC4A9FE0073E2F0 /* file1test.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = file1test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				52EE56DA1CC4A76F0073E2F0 /* AppDelegate.swift */,
 				52EE56DC1CC4A76F0073E2F0 /* ViewController.swift */,
+				52EE570B1CC4A9FE0073E2F0 /* file1test.swift */,
 				52EE56DE1CC4A76F0073E2F0 /* Main.storyboard */,
 				52EE56E41CC4A76F0073E2F0 /* Assets.xcassets */,
 				52EE56E61CC4A76F0073E2F0 /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 				52EE56E31CC4A76F0073E2F0 /* Demo2.xcdatamodeld in Sources */,
 				52EE56DD1CC4A76F0073E2F0 /* ViewController.swift in Sources */,
 				52EE56DB1CC4A76F0073E2F0 /* AppDelegate.swift in Sources */,
+				52EE570C1CC4A9FE0073E2F0 /* file1test.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
